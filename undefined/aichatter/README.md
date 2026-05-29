@@ -20,6 +20,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # aichatter 시작하기
